@@ -17,13 +17,13 @@ Developed with Vue.js
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/e4ebin/hd_prediction_frontend
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd hd_prediction_frontend
 ```
 
 Install dependencies
