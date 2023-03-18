@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    input[type='number']::-webkit-outer-spin-button,
+    input[type='number']::-webkit-inner-spin-button,
+    input[type='number'] {
+      -webkit-appearance: none;
+      -moz-appearance: textfield !important;
+    }
+ }
+
+ @layer{
+  .router-link-active{
+    @apply font-semibold !text-green-400 !bg-transparent;
+  }
+ }
